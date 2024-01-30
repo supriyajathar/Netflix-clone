@@ -1,0 +1,56 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+    font-family: "Nsans Light";
+    src: url("./assets/NetflixSans-Light\ -\ Copy.woff2");
+}
+@font-face {
+    font-family: "Nsans Medium";
+    src: url("./assets/NetflixSans-Medium\ -\ Copy.woff2");
+}
+
+@font-face {
+    font-family: "Nsans Regular";
+    src: url("./assets/NetflixSans-Regular\ -\ Copy.woff2");
+}
+@font-face {
+    font-family: "Nsans Bold";
+    src: url("./assets/NetflixSans-Bold\ -\ Copy.woff2");
+}
+
+body
+{
+    font-family: "Nsans Regular","Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black; 
+    color: white;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "Nsans Light";
+    src: url("./assets/NetflixSans-Light - Copy.woff2");
+}
+
+@font-face {
+    font-family: "Nsans Medium";
+    src: url("./assets/NetflixSans-Medium - Copy.woff2");
+}
+
+@font-face {
+    font-family: "Nsans Regular";
+    src: url("./assets/NetflixSans-Regular - Copy.woff2");
+}
+
+@font-face {
+    font-family: "Nsans Bold";
+    src: url("./assets/NetflixSans-Bold - Copy.woff2");
+}
+
+body {
+    font-family: "Nsans Regular", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    background-color: black; 
+    color: white;
+}
